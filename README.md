@@ -10,7 +10,7 @@ My task was to create a website to represent and make the database more usable.
 Also, I assisted in the backend to configure the database.   
 
 This repositry includes all the files which I created for the functioning of the front-end of the website through which we can access the mysql database.  
- 
+ Submitted project website: https://comp-3380.000webhostapp.com/
 
 Sql database source : relational.fit.cvut.cz  
 Database name : Classic models  
