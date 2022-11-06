@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="../public/css/style.css">
 <script type="text/javascript">
 function CheckRequiredInput(val){
 var elementInput = document.getElementById('X');
